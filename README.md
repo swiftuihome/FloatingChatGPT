@@ -5,4 +5,4 @@
 
 ## 截图
 
-<img src="chat.png" alt="截图" style="zoom:50%;" />
+<img src="chat.png" alt="截图" style="width:330px;" />
